@@ -1,2 +1,4 @@
 # CV_OnePage
-CV de una sola página
+One Page CV
+
+Don't need install nothing!
